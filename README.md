@@ -6,6 +6,7 @@
   <a href="mailto:hprabowo076@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/hprabowo076"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/haryo-prabowo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hprabowo076.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://drive.google.com/file/d/1d6-xoAnbGg0_-SS-h_lLK-reR-mnNIOo/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Resume"/></a>
 </p>
 
@@ -15,45 +16,24 @@
 
 ---
 
-## About me
+Marketing Manager with **4+ years** of digital marketing experience — performance marketing, SEO/SEM, analytics, and data-backed growth.
 
-Marketing Management graduate from Universitas Indonesia with **4+ years** of digital marketing experience. I specialize in **performance marketing, analytics, and building data-backed growth engines** — from campaign execution to product launches.
+Currently at **Bani Aqiqah**, where I manage a **1.2B budget** across multi-channel campaigns with **>1150% ROI**.
 
-- Led multi-channel marketing at **Bani Aqiqah** with a **1.2B budget** and **>1150% ROI**.
-- Launched **5 product lines in 3 months** and grew overseas markets via singapore.baniaqiqah.com and international.baniaqiqah.com.
-- Combine marketing strategy with **data science tooling** (Python / R / dashboards) to make faster, cleaner decisions.
-- Comfortable across marketing, product, operations, and finance to align on KPIs and strategy.
+I combine marketing strategy with **data science tooling** (Python, SQL, dashboards) to turn raw data into decisions that move metrics.
 
----
-
-## Work experience
-
-**Marketing Manager** — [Bani Aqiqah](https://baniaqiqah.com) · Jan 2022 – Present · Bekasi
-- Managed a 1.2B marketing budget across multi-channel campaigns and consistently achieved >1150% ROI.
-- Increased product contribution margin up to **3x** by launching new products and overseas sites.
-- Directed social media, creative, and advertising strategy while maintaining Google & Meta partner relationships.
-- Built sales & marketing dashboards for real-time funnel insights.
-
-**Digital Marketing Executive** — [Bani Aqiqah](https://baniaqiqah.com) · Jan 2022 – Jun 2022 · Bekasi
-- Planned and executed social media, Google Ads, and Facebook Ads for the company and clients.
-- Built reporting systems and WordPress-based marketing assets that contributed to revenue growth.
-
-**Sales Trainee Academy** — [Ruangguru](https://ruangguru.com) · Sep 2021 – Dec 2021 · Bekasi
-- Organized and presented student webinars and refined negotiation through structured sales training.
-
-**Operations Intern** — [PT Surveyor Indonesia](https://www.surveyorindonesia.com) · Feb 2020 – Jul 2020 · Jakarta
-- Built automated Excel workflows that cut ADOPS survey invoicing time by ~50%.
-- Led intern team on YoY revenue analysis used by division stakeholders for business decisions.
+**More about me:** [Portfolio site →](https://hprabowo076.github.io)
 
 ---
 
-## Tech & tools
+## Core skills
 
-![Marketing](https://img.shields.io/badge/Performance_Marketing-FF0000?style=for-the-badge&logo=googleads&logoColor=white)
-![SEO/SEM](https://img.shields.io/badge/SEO%20%7C%20SEM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Data%20Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google%20Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Meta%20Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google%20Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta%20Ads](https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![SEO%20%2F%20SEM](https://img.shields.io/badge/SEO%20%2F%20SEM-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -61,17 +41,15 @@ Marketing Management graduate from Universitas Indonesia with **4+ years** of di
 
 ---
 
-## Education
+## Featured repos
 
-- **B.Sc. Management (Marketing)** — Universitas Indonesia (2015 – 2020)
-- **Data Science Bootcamp** — [Dibimbing.id](https://dibimbing.id) (2021 – 2022)
-
----
-
-## Languages
-
-- Indonesian — Native
-- English — C2
+| Project | Description |
+|---------|-------------|
+| [Claude-Autopilot](https://github.com/hprabowo076/Claude-Autopilot) | Standalone CLI fork for automation |
+| [PWA-BNGR](https://github.com/hprabowo076/PWA-BNGR) | Progressive Web App for Bani Group |
+| [Customer-Classification](https://github.com/hprabowo076/Customer-Classification) | Telemarketing effectiveness classification |
+| [Exploratory-Data-Analysis](https://github.com/hprabowo076/Exploratory-Data-Analysis) | Python-based EDA project |
+| [UK-Bank-Customer-Dashboard](https://github.com/hprabowo076/UK-Bank-Customer-Dashboard) | Bank customer dashboard (Data Studio) |
 
 ---
 
@@ -86,12 +64,6 @@ Marketing Management graduate from Universitas Indonesia with **4+ years** of di
   <img src="https://streak-stats.demolab.com/?user=hprabowo076&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
----
-
 <p align="center">
-  <img src="https://github.com/platane/platane/raw/main/platane_cat.gif" alt="cat" width="100"/>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! Let's connect and build something meaningful.</i>
+  <a href="https://hprabowo076.github.io"><b>See my full portfolio →</b></a>
 </p>
