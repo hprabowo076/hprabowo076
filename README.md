@@ -46,7 +46,6 @@ I combine marketing strategy with **data science tooling** (Python, SQL, dashboa
 | Project | Description |
 |---------|-------------|
 | [Claude-Autopilot](https://github.com/hprabowo076/Claude-Autopilot) | Standalone CLI fork for automation |
-| [PWA-BNGR](https://github.com/hprabowo076/PWA-BNGR) | Progressive Web App for Bani Group |
 | [Customer-Classification](https://github.com/hprabowo076/Customer-Classification) | Telemarketing effectiveness classification |
 | [Exploratory-Data-Analysis](https://github.com/hprabowo076/Exploratory-Data-Analysis) | Python-based EDA project |
 | [UK-Bank-Customer-Dashboard](https://github.com/hprabowo076/UK-Bank-Customer-Dashboard) | Bank customer dashboard (Data Studio) |
